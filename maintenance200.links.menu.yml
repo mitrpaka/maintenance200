@@ -1,0 +1,5 @@
+maintenance200.settings_form:
+  title: 'Configure maintenance200'
+  route_name: maintenance200_settings
+  description: ''
+  parent: system.admin_config_development

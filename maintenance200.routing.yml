@@ -1,0 +1,7 @@
+maintenance200_settings:
+  path: '/admin/config/development/maintenance200'
+  defaults:
+    _form: '\Drupal\maintenance200\Form\Maintenance200SettingsForm'
+    _title: 'Maintenance200 Settings'
+  requirements:
+    _permission: 'administer site configuration'
